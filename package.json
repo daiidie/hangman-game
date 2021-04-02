@@ -1,0 +1,15 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daiidie/hangman-game.git",
+  "author": "daiidie <delavegae46@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0",
+    "random-words": "^1.1.1"
+  }
+}
